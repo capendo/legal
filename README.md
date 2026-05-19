@@ -12,5 +12,5 @@ Static legal & support pages for the Capendo iOS app, served via GitHub Pages.
 
 Plain HTML, no build step. Edit the `.html` files and push to `main`.
 
-Contact email used across pages: `dpw.vanderhoeven@gmail.com` — swap to a
+Contact email used across pages: `dpw.vanderhoeven.tech@gmail.com` — swap to a
 branded address (e.g. `support@capendo.app`) once a domain is set up.
